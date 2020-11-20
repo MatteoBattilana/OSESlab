@@ -1,5 +1,5 @@
 all: myhello.c
-	gcc -g myhello.c -o myhello_remote 
+	gcc -g -o myhello_remote myhello.c
 	
 clean:
 	echo "OK"
