@@ -1,5 +1,3 @@
-all: myhello_remote
-
 CFLAGS = -g
 CC = gcc
 
